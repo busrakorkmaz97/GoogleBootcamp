@@ -111,7 +111,7 @@ Kullanıcı arayüz sprint 1 de yetişmemiştir.
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: Toplamda proje boyunca tamamlanması gereken 250 puanlık backlog bulunmaktadır. 3 sprint şeklinde bölünmüştür. 2.Sprintimize 130 puan üzerinden puanlama yapılmıştır.30 puanlık maddeler cancel edilmiştir.
 
-- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 3 Daily Scrum Chats](https://github.com/users/busrakorkmaz97/projects/2/views/1?pane=issue&itemId=33365042)
+- **Daily Scrum**: Daily Scrum toplantılarını Discord ve whatsapp üzerinden gerçekleştirilmiştir.[Sprint 3 Daily Scrum Chats](https://user-images.githubusercontent.com/136268715/253767987-de2b0578-6992-46ce-bb6a-d58d2c8bd601.png)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog ](https://user-images.githubusercontent.com/136268715/253768020-bf42b2b7-83a1-4132-bc84-76984fb5447c.png) 
